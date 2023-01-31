@@ -75,7 +75,7 @@
 <h2>Files</h2>
 
 <ol>
-	<li><p>Heating and cooling loan prediction with <i>multi-output model</i>: <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">energy_efficiency.ipynb</a>. You can use the model last parameters with loading <a  href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/blob/main/saved_model/last_model.h5">last_model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/tree/main/saved_model">here</a>.</p></li>
+	<li><p>Heating and cooling loan prediction with <i>multi-output model</i>: <a href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/blob/main/energy_efficiency.ipynb">energy_efficiency.ipynb</a>. You can use the model last parameters with loading <a  href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/blob/main/saved_model/last_model.h5">last_model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/tree/main/saved_model">here</a>.</p></li>
 	<li><p>You can review model's <i>loss</i> and <i>mean squared error</i> values in each step: <a href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/blob/main/training.csv">training.csv</a>. 
 </ol>
 
