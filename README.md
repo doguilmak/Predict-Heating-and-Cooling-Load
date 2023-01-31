@@ -40,9 +40,6 @@
 	<li>X6 Orientation</li>
 	<li>X7 Glazing Area</li>
 	<li>X8 Glazing Area Distribution</li>
-</ol>
-
-<ol>
 	<li><b>Output variables: </b></li>
 	<ul>
 	<li><i>y1 Heating Load</i></li>
@@ -79,8 +76,8 @@
 <h2>Files</h2>
 
 <ol>
-	<li><p>Heating and cooling loan prediction with <i>multi-output model</i>: <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">energy_efficiency.ipynb</a>. You can use the model last parameters with loading <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/saved_models/my_model.h5">last_model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/tree/main/saved_models/saved_model">here</a>.</p></li>
-	<li><p>You can review model's <i>loss</i> and <i>mean squared error</i> values in each step: <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/red_wine_multiple_reg.ipynb">training.csv</a>. 
+	<li><p>Heating and cooling loan prediction with <i>multi-output model</i>: <a href="https://github.com/doguilmak/Red-Wine-Quality-Prediction/blob/main/wine_ann.ipynb">energy_efficiency.ipynb</a>. You can use the model last parameters with loading <a  href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/blob/main/saved_model/last_model.h5">last_model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/tree/main/saved_model">here</a>.</p></li>
+	<li><p>You can review model's <i>loss</i> and <i>mean squared error</i> values in each step: <a href="https://github.com/doguilmak/Predict-Heating-and-Cooling-Load/blob/main/training.csv">training.csv</a>. 
 </ol>
 
 <br>
