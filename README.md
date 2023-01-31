@@ -55,6 +55,8 @@
 	<li><b>A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools'</b>, Energy and Buildings, Vol. 49, pp. 560-567, 2012</li>
 </ul>  
 
+<br>
+
 <h2>Citation Request</h2> 
 
 <ul>
