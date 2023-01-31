@@ -46,22 +46,6 @@
 
 <br>
 
-<h2>Relevant Papers</h2> 
-
-<ul>
-	<li><b>A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools'</b>, Energy and Buildings, Vol. 49, pp. 560-567, 2012</li>
-</ul>  
-
-<br>
-
-<h2>Citation Request</h2> 
-
-<ul>
-	<li><b>A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools'</b>, Energy and Buildings, Vol. 49, pp. 560-567, 2012</li>  <br>
-	<li>For further details on the data analysis methodology: <b>A. Tsanas, 'Accurate telemonitoring of Parkinson's disease symptom severity using nonlinear speech signal processing and statistical machine learning'</b>, D.Phil. thesis, University of Oxford, 2012</li>
-</ul>
-
-<br>
 
 <h2>Objectives</h2>
 
@@ -84,6 +68,23 @@
 <h2>Main Graph</h2>
 
 <img  src="assets/main_graph.png" alt="energy">
+
+<br>
+
+<h2>Relevant Papers</h2> 
+
+<ul>
+	<li><b>A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools'</b>, Energy and Buildings, Vol. 49, pp. 560-567, 2012</li>
+</ul>  
+
+<br>
+
+<h2>Citation Request</h2> 
+
+<ul>
+	<li><b>A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools'</b>, Energy and Buildings, Vol. 49, pp. 560-567, 2012</li>  <br>
+	<li>For further details on the data analysis methodology: <b>A. Tsanas, 'Accurate telemonitoring of Parkinson's disease symptom severity using nonlinear speech signal processing and statistical machine learning'</b>, D.Phil. thesis, University of Oxford, 2012</li>
+</ul>
 
 <br>
 
