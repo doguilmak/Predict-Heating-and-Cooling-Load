@@ -8,11 +8,9 @@
 
 <h2>Data Set Information:</h2>
 
-
 <p>We perform energy analysis using <i>12</i> different building shapes simulated in <i>Ecotect</i>. The buildings differ with respect to the <i>glazing area</i>, <i>the glazing area distribution</i>, and the <i>orientation</i>, amongst other parameters. We simulate various settings as functions of the <i>afore-mentioned</i> characteristics to obtain <i>768 building shapes</i>. The dataset comprises <i>768</i> samples and <i>8</i> features, aiming to predict <i>two real valued responses</i>. It can also be used as a <i>multi-class classification problem</i> if the response is rounded to the nearest integer. <b>All the informations about data set referred from <a  href='https://archive.ics.uci.edu/ml/datasets/Energy+efficiency'>archive.ics.uci.edu</a>.</b></p>
 
 <br> 
-
 
 <h2>Keywords</h2>
 
@@ -25,7 +23,6 @@
 </ul>
 
 <br>
-
 
 <h2>Attribute Information</h2>  
 
@@ -68,7 +65,7 @@
 
 <h2>Objectives</h2>
 
- <ul>
+<ul>
 	<li>Understand the data set & cleanup (data pre-processing).</li>
 	<li>Build <i>Multi-output</i> model to predict heating and cooling loan. Afterwards, evaluate the model.</li>
 </ul>
