@@ -43,7 +43,7 @@
 	<li><b>Output variables: </b><ol>
 	<li><i>y1 Heating Load</i></li>
 	<li><i>y2 Cooling Load</i></li>
-</ol></li>
+</ol>
 
 <br>
 
