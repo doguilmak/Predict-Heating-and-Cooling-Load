@@ -40,9 +40,9 @@
 	<li>X6 Orientation</li>
 	<li>X7 Glazing Area</li>
 	<li>X8 Glazing Area Distribution</li>
-	<ul><li><b>Output variables: </b></li>
+	<ol><b>Output variables: </b>
 	<li><i>y1 Heating Load</i></li>
-	<li><i>y2 Cooling Load</i></li></ul>
+	<li><i>y2 Cooling Load</i></li></ol>
 </ol>
 
 <br>
