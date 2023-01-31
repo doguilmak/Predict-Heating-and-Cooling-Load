@@ -1,4 +1,4 @@
-<h1 align=center><font size = 5>Building Model to Predict Heating and Cooling Load</font></h1>
+<h1 align=center><font size = 5>Model to Predict Heating and Cooling Load</font></h1>
 
 <img  src="assets/asset_1.png" alt="energy">
 
