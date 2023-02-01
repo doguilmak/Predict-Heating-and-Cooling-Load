@@ -51,7 +51,7 @@
 
 <ul>
 	<li>Understand the data set & cleanup (data pre-processing).</li>
-	<li>Build <i>Multi-output</i> model to predict heating and cooling loan. Afterwards, evaluate the model.</li>
+	<li>Build <i>Multi-output</i> model to predict heating and cooling load. Afterwards, evaluate the model.</li>
 </ul>
 
 <br>
